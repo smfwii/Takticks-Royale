@@ -1,5 +1,5 @@
 # Takticks-Royale
-As promised, I uploaded my ES project to github. You should be able to open it in the unity editor. I plan to continue working on this myself. Here are the current plans:
+As promised, I uploaded my enrichment seminar project to github. You should be able to open it in the unity editor. I plan to continue working on this myself. Here are the current plans:
 
 -Switch to using the network lobby manager (done)
 
